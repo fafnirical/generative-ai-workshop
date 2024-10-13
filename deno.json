@@ -1,3 +1,5 @@
 {
-  "workspace": []
+  "workspace": [
+    "./03-fine-tuning"
+  ]
 }
