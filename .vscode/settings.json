@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "files.associations": {
+    ".env.example": "dotenv"
+  },
+  "notebook.defaultFormatter": "denoland.vscode-deno"
+}
